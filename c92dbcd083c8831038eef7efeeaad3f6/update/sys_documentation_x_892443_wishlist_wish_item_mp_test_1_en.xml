@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="mp_test_1" label="MP Test 1" language="en" table="x_892443_wishlist_wish_item">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>mp_test_1</element>
+            <help/>
+            <hint/>
+            <label>MP Test 1</label>
+            <language>en</language>
+            <name>x_892443_wishlist_wish_item</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-31 14:32:27</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>MP Test 1</sys_name>
+            <sys_package display_value="WishList" source="x_892443_wishlist">c92dbcd083c8831038eef7efeeaad3f6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="WishList">c92dbcd083c8831038eef7efeeaad3f6</sys_scope>
+            <sys_update_name>sys_documentation_x_892443_wishlist_wish_item_mp_test_1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-31 14:32:28</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
